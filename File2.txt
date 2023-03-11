@@ -1,0 +1,4 @@
+VPC : Deploy your resources 
+Subnets :- Allow you to partition your network inside your VPC 
+Public Subnet :- It is a subnet that is accessible from internet
+Private Subnet :- It is a subnet that is not accessible from internet
