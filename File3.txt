@@ -1,0 +1,8 @@
+
+VPC A <-------------VPC Peering----------------> VPC B 
+|
+|
+|Peering
+|
+|
+VPC C
