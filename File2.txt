@@ -10,4 +10,4 @@ It will allow your instance in your private subnets to access internet while rem
 Assignment :-  - Create your own new custom VPC
 - And configure your EC2 linux instance inside your custom VPC 
 - and then create 3 subnets of that VPC 
-- Attach an internet gateway to your custom VPC
+- Attach an internet gateway to your custom VPC 
